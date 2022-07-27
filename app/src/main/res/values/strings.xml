@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LOGINAPPLICATION123</string>
+    <string name="login_title">Login</string>
+    <string name="login_username">Enter email</string>
+    <string name="login_password">Enter Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="please_enter_name">Please enter name</string>
+    <string name="please_enter_password">Please enter password</string>
+    <string name="login_successfully">Login Successfully</string>
+    <string name="enter_phone">Enter Phone</string>
+    <string name="enter_gender">Enter Gender</string>
+    <string name="others">Other</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="notification_clicked">Notification clicked</string>
+    <string name="he">He</string>
+    <string name="she">She</string>
+    <string name="enter_email">Enter email here</string>
+    <string name="error">Error</string>
+    <string name="logo_image">Logo image</string>
+    <string name="text_1">Text 1</string>
+    <string name="text_2">Text 2</string>
+    <string name="text_3">Text 3</string>
+    <string name="text_4">Text 4</string>
+    <string name="Forget_password_textview">Forgot Password Screen</string>
+</resources>
